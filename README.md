@@ -27,4 +27,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
         <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+We have performed Exploratory Data Analysis on the given data set successfully.
